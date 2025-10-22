@@ -1,0 +1,31 @@
+# Guitar is a percussion instrument - guitar parts of Fela Kuti
+
+One of the more formative experiences I had early in my university musical training was seeing Seun Kuti at the Granada in Lawrence, KS sometime in the early 2010s. It was an interesting billing, two local 'afro-beat' bands opened the show. The first (whose name has long since been lost to me) was little more than a some decently talented kids who added djembe to their funk band and tried to stay in the pentatonic scale, although they performed admirably. The second, the Hearts of Darkness, a regional powerhouse from Kansas City who had a pretty sizeable local following and counted some of the scene's better jazz musicians in their ranks, was much better - their arrangements were all super tight, the groove never stopped, and they killed with all of us college kids. Then Seun Kuti took the stage and I got to experience what real afrobeat was like. Despite the obvious care the Hearts of Darkness took towards the music, they still approached things like a funk outfit would - lots of transitions, shorter songs, more arranged parts. In contrast, Kuti's band (which I believe had at least some members in common with his father's outfit) brought something deep with them. The guitar players were like mountains; they hardly moved and as far as I could tell never missed a note. The parts weren't the most complicated, but the stamina and precision needed to execute like that are something that I don't think many people work on, although there's a lot to be gained by looking into this fairly unique style of guitar.
+
+There is a very deep well to visit to really explore afrobeat recordings, much if not most of which I'm still very ignorant to, but I'd say one album that epitomizes the movement - both musically and thematically - is Fela Kuti's 1976 release Zombie. It's only slightly longer than 25 minutes, comprising two tracks, one on each side of the record. The history of the recording, the radical political environment that led to its composition and the violent aftermath, as well as the incredible and at times problematic life of Fela Kuti are all things well documented and worth looking into, but here I'm interested in the guitar.
+
+One conspicuous detail of Kuti's music is that the guitars, more than any other instrument including the drums, are the absolute foundation of the music. Perhaps only the shekre, which generally gives the quarter note, is more fundamental. There are always two guitars, one playing a rhythmic single note line and the other a repeating chord pattern, both of which intertwine seamlessly. There are no dynamics, no variations, no solos, no hiccups - just pure, uninterupted rhythm. Even when the band fully drops out,the guitars keep going, like the pulse of the song lives and dies with them. Let's start with the second track - Mr. Follow Follow; it's a little slower and easier to deal with. The single note line: 
+
+### 1st part ###
+
+It's basically a four beat call and a four beat response, both of which start the same way (there's likely some fancy music theory term I've forgotten for this, although it seems absurd to apply too much theory in this situation). The single notes are played near the bottom of the guitar's range, which gives plenty of room for the the other guitar part to find space.
+
+### 2nd part ###
+
+One of the challenges here is getting the lengths of the notes right. It took me a while to really make the first few sixteenth notes sing like they needed to - they aren't stacatto, there's sustained sound between them. Strumming with the right velocity is difficult, particularly for the duration of the song. 
+
+So there it is, all 12+ minutes of what the guitar does on Mr. Follow Follow. It seems easy enough, but in practice it may be one of the most difficult tasks. It's one thing to have some sort of repetitive part that can sort of evolve or move with the music, but accurately reproducing the same one or two bars of music, especially with the kind of groove and musicality required here, is absolutely daunting. It's basically like meditating, there's no way to maintain the same sort of intense focus you might when sight reading, but you also can't relax too much or things will get too loose. I'd recomend giving it a try with the recording and keeping track of how many times you stumble (that is how many times is there noticeable variation in the part). You're doing good if it's around a dozen. Bonus points for recording yourself and seeing if you can really sit in the pocket for the duration.
+
+Although Mr. Follow Follow is not an easy task, Zombie is an even bigger challenge. The tempo is much brisker, and the single note line is much more involved:
+
+### Zombie 1st part ###
+
+Written this way obscures the initial challenge for this tune, which is finding your bearings rhythmically. The recording starts on beat two, making the properly written part:
+
+### Zombie 1st part corrected ###
+
+It's fairly straightforward to get once you see it on the page, but without such a crutch it's deceptively tricky to feel properly (I doubt Kuti came in with printed scores for his band for everything - it's likely they were picking things up aurally and relying on intuition). Given the rhythmic sophistication of everything else happeneing, it's easy to get turned around, particularly if you're trying to pay attention to the long call and response horn and vocal phrases at the same time. 
+
+Another difficulty at this tempo is keeping the sixteenth note pulse going. A prerequisite for tackling parts like this is the understanding that the right hand should be moving up and down for most if not all such subdivisions regardless of what the left hand is doing. This is generally straightforward (if slightly demanding physically for the unitiated) when playing more standard funk parts (see Jimmy Nolen, Nile Rodgers, Prince, etc.) where at least three strings are being played and left hand muting is reliable. Single note lines require an additional level of precision and more coordination between both hands - I found the transition between 4th and 3rd strings in the second bar to be a particularly ripe area for stumbling. 
+
+

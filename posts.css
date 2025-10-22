@@ -1,0 +1,79 @@
+
+/**/
+
+body {
+    font-family: "Monaco", monospace;
+    margin: 0 auto;
+    background-color: black;
+    color: #ba77de; /* Ensures text is visible on a black background */   
+    text-align: center;
+}
+
+
+p {
+	color: white;
+    	text-align: left;
+	margin: 50px auto;
+	width: 700px;
+}
+
+
+img {
+	margin: 5px auto;
+	width: 700px;
+}
+
+.button {
+  background-color: #ba77de; /* purple */
+  font-family: "Courier new", monospace;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12;
+  font-weight: bold;
+  margin: 10px 12px;
+  cursor: pointer;
+}
+
+.button:hover {			/*changes color over button*/
+  background-color: #43055c;
+  color: white;
+}
+
+.button1 {
+	border: 2px solid white;
+}
+
+
+.column {
+	width: 20%
+}
+
+
+.container {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.container1 {
+	width = 50%;
+}
+
+.half {
+	display:flex; 
+	width: 50%; 
+	margin: 0 auto;
+}
+.threequarters {
+	display:flex; 
+	width: 75%; 
+	margin: 0 auto;
+}
+
+span.blockspam {
+  display: none;
+}
+
